@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Streamlit secrets — NEVER commit this
+.streamlit/secrets.toml
+
+# Output files
+output/
+demo_pdfs/
+*.log
